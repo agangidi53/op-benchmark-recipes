@@ -19,7 +19,7 @@ git clone https://github.com/PPC64/LuaJIT.git
 ```bash
 cd <home>/sysbench
 ./autogen.sh
-./configure —without-mysql
+./configure --without-mysql
 make install
 ```
 
